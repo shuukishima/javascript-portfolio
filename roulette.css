@@ -1,0 +1,13 @@
+table, tr, td {
+    border: solid 3px;
+}
+
+td {
+    padding: 10px;
+}
+.td2 {
+    background-color:#006600;
+}
+.td1 {
+    background-color:#9beae5;
+}
